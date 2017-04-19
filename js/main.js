@@ -17,12 +17,3 @@ for(var k = 0; k < nombre.length; k++) {
     nombre[k].style.bottom = "20px";
 }
 
-
-
-/*var edith = document.getElementById("edith");
-var kary = document.getElementById("kary");
-var lucero = document.getElementById("luz");
-var mariana = document.getElementById("mariana");
-var mimi = document.getElementById("mimi");
-var silvana = document.getElementById("silvana");
-var amalia = document.getElementById("amalia");*/
